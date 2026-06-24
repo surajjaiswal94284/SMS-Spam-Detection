@@ -1,7 +1,6 @@
-```text
 pandas
 numpy
 scikit-learn
 nltk
 joblib
-```
+
