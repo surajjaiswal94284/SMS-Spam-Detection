@@ -1,4 +1,3 @@
-````md
 # Spam Message Detection using Machine Learning
 
 A Machine Learning project that classifies SMS messages as **Spam** or **Ham (Not Spam)** using Natural Language Processing (NLP) and a Multinomial Naive Bayes classifier.
@@ -47,16 +46,12 @@ Dataset contains SMS messages labeled as:
 - spam → Unwanted/Promotional Message
 
 File:
-
-```text
 spam.csv
-````
 
 ---
 
 ## Project Structure
 
-```text
 SPAM_MESSAGE_DETECTION/
 │
 ├── main_new.py
@@ -65,7 +60,7 @@ SPAM_MESSAGE_DETECTION/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-```
+
 
 ---
 
