@@ -52,6 +52,7 @@ spam.csv
 
 ## Project Structure
 
+```text
 SPAM_MESSAGE_DETECTION/
 │
 ├── main_new.py
@@ -60,7 +61,7 @@ SPAM_MESSAGE_DETECTION/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+```
 
 ---
 
